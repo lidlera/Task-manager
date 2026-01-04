@@ -12,7 +12,7 @@
 
 ## Как запустить
 ```bash
-python app/main.py
+python main.py
 
 
 
