@@ -19,7 +19,7 @@ python app/main.py
 # Task Manager (CLI)
 
 Simple command-line task manager written in Python.  
-Portfolio project for beginner Python developers.
+
 
 ## Features
 - Add tasks
